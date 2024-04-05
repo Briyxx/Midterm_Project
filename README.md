@@ -1,4 +1,8 @@
 # Midterm Project
+[Rosalie Nacario](https://https://www.facebook.com/profile.php?id=100072288485147)
+[Nathaniel Tino](https://https://www.facebook.com/NathanielTino?mibextid=ZbWKwL)
+
+
 ## _By Nathaniel Tino and Rosalie Nacario_
 
 **Information Gathering Tools**
