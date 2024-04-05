@@ -1,9 +1,8 @@
 # Midterm Project
-[Rosalie Nacario](https://https://www.facebook.com/profile.php?id=100072288485147)
+[Rosalie Nacario](https://https://www.facebook.com/profile.php?id=100072288485147) and
 [Nathaniel Tino](https://https://www.facebook.com/NathanielTino?mibextid=ZbWKwL)
 
 
-## _By Nathaniel Tino and Rosalie Nacario_
 
 **Information Gathering Tools**
 * **_Nmap_**: A powerful network scanning tool used to discover hosts and services on a computer network, thus creating a map of the network.  
